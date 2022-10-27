@@ -2,7 +2,7 @@ $engine: 3
 $minFxVersion: 5848
 $onesync: on
 name: RR Custom Recipe | ESX & OX 
-version: 0.4.0
+version: 1.2.2
 author: RR
 description: The official recipe of RR.
 
