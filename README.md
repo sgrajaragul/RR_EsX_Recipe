@@ -6,7 +6,7 @@ RR_EsX_Recipe is a mix of ESX-Legacy and Overextended
 Open the txAdmin web panel and begin deployment.
 Select "Remote URL Template", and paste the link below into the text field.
 
-https://raw.githubusercontent.com/sgrajaragul/RR_EsX_Reciepe/main/RR_Reciepe.yaml
+https://raw.githubusercontent.com/sgrajaragul/RR_EsX_Recipe/main/recipe.yaml
 
 
 *any Error's Occured please raise an Issue. :)
